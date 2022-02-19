@@ -3,6 +3,7 @@
 main()
 {
 	int n,i,status=1;
+	printf("hello user\n");
 	printf("enter number\n");
 	scanf("%d",&n);
 	if(n==1)
