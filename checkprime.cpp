@@ -4,6 +4,7 @@ main()
 {
 	int n,i,status=1;
 	printf("hello user\n");
+	printf("be carefully while entering the number\n");
 	printf("enter number\n");
 	scanf("%d",&n);
 	if(n==1)
